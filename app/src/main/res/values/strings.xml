@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pj2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Calculator</string>
+    <string name="menu_gallery">Unit Converter</string>
+    <string name="menu_slideshow">Currency converter</string>
+
+    <string-array name="currency_codes">
+        <item>KM</item>
+        <item>HM</item>
+        <item>DAM</item>
+        <item>M</item>
+        <item>DM</item>
+        <item>CM</item>
+        <item>MM</item>
+    </string-array>
+</resources>
